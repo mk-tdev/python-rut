@@ -1,0 +1,98 @@
+[
+  {
+    "phone_id": 1,
+    "brand": "Apple",
+    "model": "iPhone 15",
+    "release_year": 2023,
+    "price_usd": 999,
+    "battery_mah": 3349,
+    "storage_gb": 128,
+    "ram_gb": 6,
+    "screen_size_inches": 6.1,
+    "rating": 4.8
+  },
+  {
+    "phone_id": 2,
+    "brand": "Samsung",
+    "model": "Galaxy S24",
+    "release_year": 2024,
+    "price_usd": 999,
+    "battery_mah": 4000,
+    "storage_gb": 256,
+    "ram_gb": 12,
+    "screen_size_inches": 6.2,
+    "rating": 4.7
+  },
+  {
+    "phone_id": 3,
+    "brand": "Google",
+    "model": "Pixel 8",
+    "release_year": 2023,
+    "price_usd": 799,
+    "battery_mah": 4700,
+    "storage_gb": 128,
+    "ram_gb": 8,
+    "screen_size_inches": 6.2,
+    "rating": 4.6
+  },
+  {
+    "phone_id": 4,
+    "brand": "OnePlus",
+    "model": "12",
+    "release_year": 2024,
+    "price_usd": 799,
+    "battery_mah": 5400,
+    "storage_gb": 256,
+    "ram_gb": 12,
+    "screen_size_inches": 6.7,
+    "rating": 4.5
+  },
+  {
+    "phone_id": 5,
+    "brand": "Xiaomi",
+    "model": "14 Ultra",
+    "release_year": 2024,
+    "price_usd": 1299,
+    "battery_mah": 5000,
+    "storage_gb": 512,
+    "ram_gb": 16,
+    "screen_size_inches": 6.73,
+    "rating": 4.4
+  },
+  {
+    "phone_id": 6,
+    "brand": "Apple",
+    "model": "iPhone 14",
+    "release_year": 2022,
+    "price_usd": 799,
+    "battery_mah": 3279,
+    "storage_gb": 128,
+    "ram_gb": 6,
+    "screen_size_inches": 6.1,
+    "rating": 4.7
+  },
+  {
+    "phone_id": 7,
+    "brand": "Samsung",
+    "model": "Galaxy A54",
+    "release_year": 2023,
+    "price_usd": 449,
+    "battery_mah": 5000,
+    "storage_gb": 128,
+    "ram_gb": 8,
+    "screen_size_inches": 6.4,
+    "rating": 4.3
+  },
+  {
+    "phone_id": 8,
+    "brand": "Motorola",
+    "model": "Edge 50",
+    "release_year": 2024,
+    "price_usd": 499,
+    "battery_mah": 5000,
+    "storage_gb": 256,
+    "ram_gb": 12,
+    "screen_size_inches": 6.55,
+    "rating": 4.2
+  }
+]
