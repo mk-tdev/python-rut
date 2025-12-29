@@ -1,0 +1,9 @@
+phone_id,brand,model,release_year,price_usd,battery_mah,storage_gb,ram_gb,screen_size_inches,rating
+1,Apple,iPhone 15,2023,999,3349,128,6,6.1,4.8
+2,Samsung,Galaxy S24,2024,999,4000,256,12,6.2,4.7
+3,Google,Pixel 8,2023,799,4700,128,8,6.2,4.6
+4,OnePlus,12,2024,799,5400,256,12,6.7,4.5
+5,Xiaomi,14 Ultra,2024,1299,5000,512,16,6.73,4.4
+6,Apple,iPhone 14,2022,799,3279,128,6,6.1,4.7
+7,Samsung,Galaxy A54,2023,449,5000,128,8,6.4,4.3
+8,Motorola,Edge 50,2024,499,5000,256,12,6.55,4.2
