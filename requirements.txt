@@ -1,0 +1,5 @@
+pydantic
+ipykernel
+pandas
+numpy
+matplotlib
